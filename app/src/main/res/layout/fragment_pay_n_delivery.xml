@@ -15,8 +15,7 @@
         android:minHeight="?attr/actionBarSize"
         app:menu="@menu/navigation"
         app:navigationIcon="@drawable/ic_keyboard_backspace_black_24dp"
-        app:title="Оплата и доставка"
-        />
+        app:title="Оплата и доставка" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         style="@style/PayStyle"
